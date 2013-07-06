@@ -1,7 +1,7 @@
 {
-    "name": "dydro/php-encoding",
+    "name": "dydro/encoding",
     "description": "Support for various encoding/decoding formats",
-    "keywords": ["encoding","decoding","encode","decode","ascii85"],
+    "keywords": ["encode","decode","ascii85"],
     "license": "BSD-3-Clause",
     "authors": [{
         "name": "Dydro LLC.",
