@@ -1,4 +1,5 @@
-php-encoding
-============
+# PHP Encoding
+Support for multiple encoding/decoding methods
 
-Support for various encodings
+## Supported encodings
+  * ASCII85
