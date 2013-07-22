@@ -16,7 +16,7 @@ namespace Dydro\Encoding;
  *
  * @package Dydro\Encoding
  */
-class ASCII85
+class ASCII85 implements Encoding
 {
     /**
      * Decodes a string from it's ASCII85-encoded equivalent

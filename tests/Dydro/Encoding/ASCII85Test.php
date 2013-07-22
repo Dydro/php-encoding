@@ -10,6 +10,7 @@
  */
 
 namespace Dydro\Encoding\Test;
+
 use Dydro\Encoding\ASCII85;
 
 /**

@@ -6,7 +6,7 @@
  * @copyright 2013 Dydro LLC. All rights reserved.
  * @license BSD 3-Clause License
  * @link http://github.com/dydro/php-encoding
- * @package Dydro\Encoding\Tests
+ * @package Dydro\Encoding\Test
  */
 
 // Include the Composer autoloader
