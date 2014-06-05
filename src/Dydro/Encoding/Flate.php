@@ -12,25 +12,31 @@
 namespace Dydro\Encoding;
 
 /**
- * Main interface for various encodings
+ * Flate encoding/decoding utility
  *
  * @package Dydro\Encoding
  */
-interface Encoding
+class Flate implements EncodingInterface
 {
     /**
-     * Decode a string from it's algo-equivalent
+     * Decodes a string from it's Flate-encoded equivalent
      *
      * @param string $data The data to decode
      * @return string The decoded data
      */
-    public static function decode($data);
+    public static function decode($data)
+    {
+
+    }
 
     /**
-     * Encode a string to it's algo-equivalent
+     * Encoding a string to it's Flate-encoded equivalent
      *
      * @param string $data The data to encode
      * @return string The encoded data
      */
-    public static function encode($data);
+    public static function encode($data)
+    {
+
+    }
 }
